@@ -1,5 +1,5 @@
 /**
- * Encoder & Decoder Script
+ * CodeCipher
  * Author: M3hank
  */
 
