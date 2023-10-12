@@ -24,10 +24,6 @@ Welcome to CodeCipher! Dive into a seamlessly crafted web tool, tailored to fulf
 
 - **Special Characters in URL & HTML Entity Encoding**: While delving into URL Encoding and HTML Entity Encoding, you might observe that standard alphanumeric characters often remain unaffected. This intentional design caters to the special characters and is a standard behavior. So, if your text appears unchanged post-encoding, don't fret; it's all part of the plan!
 
-## 🤝 Join the Community
-
-The brainchild of [M3hank](https://github.com/M3hank), this project thrives on community collaboration. We heartily invite coders and enthusiasts alike to contribute, offer feedback, or even just drop by for a casual code chat!
-
 ## 📜 Licensing
 
 All rights reserved under the MIT License. For the specifics, kindly refer to the `LICENSE` file in the repository.
