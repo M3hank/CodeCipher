@@ -18,14 +18,6 @@ body {
     margin: 0 auto;
 }
 
-.dropdown {
-    padding: 10px 15px;
-    border-radius: 5px;
-    border: 1px solid #e0e0e0;
-    width: 100%;
-    margin-bottom: 15px;
-}
-
 textarea {
     width: 100%;
     padding: 15px;
@@ -48,12 +40,3 @@ textarea {
 .btn:hover {
     background-color: #0056b3;
 }
-
-.author {
-    font-size: 1.2em;
-    text-align: center;
-    margin-top: 20px;
-    color: black;
-    font-weight: bold;
-}
-
