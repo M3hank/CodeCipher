@@ -1,4 +1,4 @@
-# Encoder & Decoder Web Application: Unveiling the Code Cipher 🖥️
+# Code Cipher 🖥️
 
 Welcome to CodeCipher! Dive into a seamlessly crafted web tool, tailored to fulfill all your encoding and decoding needs. From the classic URL to the intricate Unicode transformations, we've got you covered.
 
